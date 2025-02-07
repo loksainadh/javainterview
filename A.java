@@ -11,7 +11,7 @@ public class A {
     public static A getInstance() {
         if (instance == null) {
             instance = new A();
-        }
+        }//lok
         return instance;
     }
 }
