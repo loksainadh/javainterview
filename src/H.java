@@ -10,7 +10,8 @@ public class H {
         int hash = Objects.hashCode(i)%5;
         System.out.println(hash);
     }
-
+//hi
+    
 
 
 }
